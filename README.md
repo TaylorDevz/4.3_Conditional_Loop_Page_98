@@ -1,7 +1,7 @@
 ### 4.3_Conditional_Loop_Page_98
 Solutions for homework 2021-01-07 incl. more advanced amendments:
 
-**[4.3b_input_number_FIND_BUG.py](4.3b_input_number_FIND_BUG.py):** code of page 100
+**[4.3a_input_number_FIND_BUG.py](4.3a_input_number_FIND_BUG.py):** code of page 100
 
 **[4.3b_input_number_FIXED_BUG.py](4.3b_input_number_FIXED_BUG.py):** solution for bug of code of page 100
 
