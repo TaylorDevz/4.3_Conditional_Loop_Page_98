@@ -9,10 +9,12 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 **4.3d_input_number_until_input_greater_99.py:** pape 101 TASK 3: loop until the user enters a number greater than 99 and substract input from total that was preinitalized with 100
 
+
 ### additional work beyond the book's tasks:
 **4.3e_input_number__3_times__RANGE.py:** loop 3 times using 'range'
 
 **4.3e_input_number__3_times__WHILE.py:** loop 3 times using 'while'
+
 
 ### Test questions of Page 101:
 1. ***Explain when to use a conditional loop in your program:***
