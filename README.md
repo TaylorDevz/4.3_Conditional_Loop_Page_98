@@ -5,15 +5,15 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 **[4.3b_input_number_FIXED_BUG.py](4.3b_input_number_FIXED_BUG.py):** solution for bug of code of page 100
 
-**4.3c_input_number__until_input_less_0.py:** page 101 TASK 2: loop until the user enters a number smaller than 0
+**[4.3c_input_number__until_input_less_0.py](4.3c_input_number__until_input_less_0.py):** page 101 TASK 2: loop until the user enters a number smaller than 0
 
-**4.3d_input_number_until_input_greater_99.py:** page 101 TASK 3: loop until the user enters a number greater than 99 and substract input from total that was preinitalized with 100
+**[4.3d_input_number_until_input_greater_99.py](4.3d_input_number_until_input_greater_99.py):** page 101 TASK 3: loop until the user enters a number greater than 99 and substract input from total that was preinitalized with 100
 
 
 ### additional work beyond the book's tasks:
-**4.3e_input_number__3_times__RANGE.py:** loop 3 times using 'range'
+**[4.3e_input_number__3_times__RANGE.py](4.3e_input_number__3_times__RANGE.py):** loop 3 times using 'range'
 
-**4.3e_input_number__3_times__WHILE.py:** loop 3 times using 'while'
+**[4.3e_input_number__3_times__WHILE.py](4.3e_input_number__3_times__WHILE.py):** loop 3 times using 'while'
 
 
 ### Test questions of Page 101:
@@ -29,4 +29,4 @@ while username != "x":
 ```  
 ANSWER: The variable 'username' is still undefined when the program execution reaches the 'while' condition the first time.
 4. ***Write the above code without errors:***
-SOLUTION: 4.3h_input_name__FIXED_BUG.py
+SOLUTION: [4.3h_input_name__FIXED_BUG.py](4.3h_input_name__FIXED_BUG.py)
