@@ -1,3 +1,6 @@
+# page 100 // homework 2021-01-07
+# TASK 1: fix bug
+#
 total = 0
 number = 1 # bugfix: define the 'number' varible to a value that meets the condition of the loop below
            # nbb: the proposed solution of the book to duplicate functional code is a no go for pre-initializing variables (duplicate code -> increase of bugs)
