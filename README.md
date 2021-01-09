@@ -11,6 +11,7 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 ### additional work beyond the book's tasks:
 **4.3e_input_number__3_times__RANGE.py:** loop 3 times using 'range'
+
 **4.3e_input_number__3_times__WHILE.py:** loop 3 times using 'while'
 
 ### Test questions of Page 101:
