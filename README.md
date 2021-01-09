@@ -5,9 +5,9 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 **4.3b_input_number_FIXED_BUG.py:** solution for bug of code of page 100
 
-**4.3c_input_number__until_input_less_0.py:** pape 101 TASK 2: loop until the user enters a number smaller than 0
+**4.3c_input_number__until_input_less_0.py:** page 101 TASK 2: loop until the user enters a number smaller than 0
 
-**4.3d_input_number_until_input_greater_99.py:** pape 101 TASK 3: loop until the user enters a number greater than 99 and substract input from total that was preinitalized with 100
+**4.3d_input_number_until_input_greater_99.py:** page 101 TASK 3: loop until the user enters a number greater than 99 and substract input from total that was preinitalized with 100
 
 
 ### additional work beyond the book's tasks:
