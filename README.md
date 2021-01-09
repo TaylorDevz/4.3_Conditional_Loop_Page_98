@@ -21,10 +21,12 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 2. ***When does this loop stop: `while username != "x":`:*** ANSWER: The loop stops, when the variable 'username' is assigned to the string "x" or the Python command 'break' or 'return' is executed.
 3. ***Find and explain an error in the following code:***
 4.3g_input_name__FIND_BUG.py
-`print("Start program")`
-`while username != "x":`
-`   username = input("enter you name ")`
-`   print("hello", username)`
+```
+print("Start program")
+while username != "x":
+  username = input("enter you name ")
+  print("hello", username)
+```  
 ANSWER: The variable 'username' is still undefined when the program execution reaches the 'while' condition the first time.
 4. ***Write the above code without errors:***
 SOLUTION: 4.3h_input_name__FIXED_BUG.py
