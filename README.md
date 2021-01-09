@@ -15,7 +15,7 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 **[4.3e_input_number__3_times__WHILE.py](4.3e_input_number__3_times__WHILE.py):** loop 3 times using 'while'
 
-**[4.3f_input_number__until_input_greater_251 copy.py](4.3f_input_number__until_input_greater_251 copy.py):** loop until user enters a number greater than 251
+**[4.3f_input_number__until_input_greater_251.py](4.3f_input_number__until_input_greater_251.py):** loop until user enters a number greater than 251
 
 
 ### Test questions of Page 101:
