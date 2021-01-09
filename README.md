@@ -19,10 +19,13 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 
 ### Test questions of Page 101:
-1. ***Explain when to use a conditional loop in your program:*** ANSWER: A 'while' loop should be used, when the loop should stop under certain condition(s) instead of being executed for a fixed number of times. TODO CODE TO PROOF: But technically, the same could be achieved when having the 'for' statement iterating a function that returns an infite number of values and then use a "if CONDITION break" statements inside the loop.
+1. ***Explain when to use a conditional loop in your program:*** ANSWER: A 'while' loop should be used, when the loop should stop under certain condition(s) instead of being executed for a fixed number of times. But technically, the same could be achieved when having the 'for' statement iterating a function that returns an infite number of values and then use a "if CONDITION break" statements inside the loop.
+PROOF: [4.3g_FOR_loop_with_conditions.py](4.3g_FOR_loop_with_conditions.py)
+
 2. ***When does this loop stop: `while username != "x":`:*** ANSWER: The loop stops, when the variable 'username' is assigned to the string "x" or the Python command 'break' or 'return' is executed.
+
 3. ***Find and explain an error in the following code:***
-[4.3g_input_name__FIND_BUG.py](4.3g_input_name__FIND_BUG.py)
+[4.3h_input_name__FIND_BUG.py](4.3h_input_name__FIND_BUG.py)
 ```
 print("Start program")
 while username != "x":
@@ -30,5 +33,6 @@ while username != "x":
   print("hello", username)
 ```  
 ANSWER: The variable 'username' is still undefined when the program execution reaches the 'while' condition the first time.
+
 4. ***Write the above code without errors:***
-SOLUTION: [4.3h_input_name__FIXED_BUG.py](4.3h_input_name__FIXED_BUG.py)
+SOLUTION: [4.3i_input_name__FIXED_BUG.py](4.3i_input_name__FIXED_BUG.py)
