@@ -16,7 +16,7 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 ### Test questions of Page 101:
 1. ***Explain when to use a conditional loop in your program:***
-2. ***When does this loop stop: `while username != "x":`:*** when the variable 'username' is assigned to the strinh "x"
+2. ***When does this loop stop: `while username != "x":`:*** when the variable 'username' is assigned to the string "x"
 3. ***Find and explain an error in the following code:***
 4.3g_input_name__FIND_BUG.py
 `print("Start program")`
