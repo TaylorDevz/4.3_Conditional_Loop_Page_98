@@ -25,5 +25,6 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 `while username != "x":`
 `   username = input("enter you name ")`
 `   print("hello", username)`
+The variable 'username' is still undefined when the program execution reaches the 'while' condition the first time.
 4. ***Write the above code without errors:***
 4.3h_input_name__FIXED_BUG.py
