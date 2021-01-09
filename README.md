@@ -1,9 +1,9 @@
 ### 4.3_Conditional_Loop_Page_98
 Solutions for homework 2021-01-07 incl. more advanced amendments:
 
-**[4.3b_input_number_FIND_BUG.py]:** code of page 100
+**[4.3b_input_number_FIND_BUG.py](4.3b_input_number_FIND_BUG.py):** code of page 100
 
-**4.3b_input_number_FIXED_BUG.py:** solution for bug of code of page 100
+**[4.3b_input_number_FIXED_BUG.py](4.3b_input_number_FIXED_BUG.py):** solution for bug of code of page 100
 
 **4.3c_input_number__until_input_less_0.py:** page 101 TASK 2: loop until the user enters a number smaller than 0
 
