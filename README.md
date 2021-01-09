@@ -15,6 +15,8 @@ Solutions for homework 2021-01-07 incl. more advanced amendments:
 
 **[4.3e_input_number__3_times__WHILE.py](4.3e_input_number__3_times__WHILE.py):** loop 3 times using 'while'
 
+**[4.3f_input_number__until_input_greater_251 copy.py](4.3f_input_number__until_input_greater_251 copy.py):** loop until user enters a number greater than 251
+
 
 ### Test questions of Page 101:
 1. ***Explain when to use a conditional loop in your program:*** ANSWER: A 'while' loop should be used, when the loop should stop under certain condition(s) instead of being executed for a fixed number of times. TODO CODE TO PROOF: But technically, the same could be achieved when having the 'for' statement iterating a function that returns an infite number of values and then use a "if CONDITION break" statements inside the loop.
